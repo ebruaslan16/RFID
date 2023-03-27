@@ -1,0 +1,14 @@
+C:\Users\Seyma\source\repos\RFID_Oyun\RFID_Oyun\bin\Debug\RFID_Oyun.exe.config
+C:\Users\Seyma\source\repos\RFID_Oyun\RFID_Oyun\bin\Debug\RFID_Oyun.exe
+C:\Users\Seyma\source\repos\RFID_Oyun\RFID_Oyun\bin\Debug\RFID_Oyun.pdb
+C:\Users\Seyma\source\repos\RFID_Oyun\RFID_Oyun\obj\Debug\RFID_Oyun.csprojAssemblyReference.cache
+C:\Users\Seyma\source\repos\RFID_Oyun\RFID_Oyun\obj\Debug\RFID_Oyun.Form1.resources
+C:\Users\Seyma\source\repos\RFID_Oyun\RFID_Oyun\obj\Debug\RFID_Oyun.Properties.Resources.resources
+C:\Users\Seyma\source\repos\RFID_Oyun\RFID_Oyun\obj\Debug\RFID_Oyun.csproj.GenerateResource.cache
+C:\Users\Seyma\source\repos\RFID_Oyun\RFID_Oyun\obj\Debug\RFID_Oyun.csproj.CoreCompileInputs.cache
+C:\Users\Seyma\source\repos\RFID_Oyun\RFID_Oyun\obj\Debug\RFID_Oyun.exe
+C:\Users\Seyma\source\repos\RFID_Oyun\RFID_Oyun\obj\Debug\RFID_Oyun.pdb
+C:\Users\Seyma\source\repos\RFID_Oyun\RFID_Oyun\obj\Debug\RFID_Oyun.Form2.resources
+C:\Users\Seyma\source\repos\RFID_Oyun\RFID_Oyun\obj\Debug\RFID_Oyun.Form3.resources
+C:\Users\Seyma\source\repos\RFID_Oyun\RFID_Oyun\obj\Debug\RFID_Oyun.Form4.resources
+C:\Users\Seyma\source\repos\RFID_Oyun\RFID_Oyun\obj\Debug\RFID_Oyun.Form5.resources
